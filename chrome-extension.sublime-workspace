@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"myMat"
+			],
+			[
+				"dr",
+				"drawVerScale"
+			],
+			[
+				"na",
+				"newValue"
+			],
+			[
+				"ne",
+				"newValue"
+			],
+			[
+				"cu",
+				"currentValue"
+			],
+			[
+				"sc",
+				"scaleLength"
+			],
+			[
+				"scale",
+				"scaleLength"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"ch",
+				"changeScaleValue"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ver",
+				"verIcon"
+			],
+			[
+				"sca",
+				"scaleContainer"
+			],
+			[
+				"ac",
+				"activateHorBtn"
+			],
+			[
+				"hor",
+				"horizontal"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"s",
+				"scaleContainer"
+			],
+			[
+				"px",
+				"pxReader"
+			],
+			[
+				"scal",
+				"scale-style"
+			],
+			[
+				"te",
+				"tempWidth"
+			],
+			[
+				"tem",
+				"tempHieght"
+			],
+			[
+				"draw",
+				"drawVerScale"
+			],
+			[
+				"of",
+				"offsetTop"
+			],
+			[
+				"is",
+				"isClickOnSwipeRegion"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"ca",
+				"canvasPosition"
+			],
+			[
+				"pa",
+				"pageX"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"ve",
+				"verIcon"
+			],
+			[
+				"o",
+				"offsetLeft"
+			],
+			[
+				"ma",
+				"markerLeftPosition"
+			],
+			[
+				"l",
+				"loadFiles"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"an",
+				"anil-tasks"
+			],
+			[
+				"sh",
+				"showBtn"
+			],
+			[
+				"db",
+				"dbobject"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fi",
+				"FileTransfer"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"upl",
+				"upload"
+			],
+			[
+				"ser",
+				"serverURL"
+			],
+			[
+				"im",
+				"imageData"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 89.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/framerjsdemo/index.html",
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/anilkumarkrishnashetty/projects/appjs/index.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/vender-international/venderDemo/scripts/main.js",
+		"/Users/anilkumarkrishnashetty/Dropbox/vender-international/venderDemo/index.html",
+		"/Users/anilkumarkrishnashetty/projects/html5/html5-indexedDB/prism.js",
+		"/Users/anilkumarkrishnashetty/.bash_profile",
+		"/Users/anilkumarkrishnashetty/projects/pg-vender/test/config.xml",
+		"/Users/anilkumarkrishnashetty/projects/phonegapdemo/ios-project/platforms/ios/HelloWorld/config.xml",
+		"/Users/anilkumarkrishnashetty/Dropbox/vender-international/pg-vender/config.xml",
+		"/Users/anilkumarkrishnashetty/Downloads/dubaiservicejam/index.html",
+		"/Users/anilkumarkrishnashetty/Downloads/dubaiservicejam/css/style.css",
+		"/Users/anilkumarkrishnashetty/Downloads/dubaiservicejam/css/eventbrite-style.css",
+		"/Users/anilkumarkrishnashetty/projects/flightApp/app/js/component/hello_world.js",
+		"/Users/anilkumarkrishnashetty/Dropbox/dubai-jam/dubaiservicejam/index.html",
+		"/Users/anilkumarkrishnashetty/projects/Ex_Files_UandR_PhoneGap/Free Exercise Files/04_10/www/index.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"coor.x +",
+			"r10",
+			"with",
+			"	You can use UI5 in any HTML file with the following bootstrap script tag which already contains jQuery:\n",
+			"HTML",
+			"changeScaleValue",
+			"pxReader",
+			"activateV",
+			"activate",
+			"add",
+			"canvas",
+			"activateClick",
+			"marker",
+			"getElementById",
+			"setAttribute",
+			"app-upload-result",
+			"#app-upload-result",
+			"app-upload-result",
+			"app-upload-success",
+			"app-upload",
+			"contact",
+			"id",
+			"page2",
+			"_onFail",
+			"_onPhotoDataSuccess",
+			"_onFail",
+			"_onPhotoDataSuccess",
+			"h3",
+			"span",
+			"iframe",
+			"#",
+			"frame",
+			"iframe",
+			"map_canvas",
+			"map",
+			"map_canvas",
+			"serverURL",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "chrome-extension.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/openui5/openui5.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
